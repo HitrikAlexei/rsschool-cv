@@ -1,1 +1,1 @@
-[https://HitrikAlexei.github.io/rsschool-cv/cv]
+[https://HitrikAlexei.github.io/rsschool-cv/]
