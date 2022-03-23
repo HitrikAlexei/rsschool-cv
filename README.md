@@ -1,1 +1,1 @@
-# rsschool-cv
+[https://HitrikAlexei.github.io/rsschool-cv/cv]
