@@ -1,1 +1,1 @@
-[https://HitrikAlexei.github.io/rsschool-cv/cv.md]
+[https://HitrikAlexei.github.io/rsschool-cv/cv]
