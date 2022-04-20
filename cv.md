@@ -48,7 +48,7 @@ Ever since I was introduced to frontend development, I have enjoyed delving deep
 
 ## _Languages:_
 
-- Belarussian (nativ sreaker)
+- Belarussian (nativ speaker)
 - Russian (nativ speaker)
 - English (Elementary)
 - German (Intermediate)
